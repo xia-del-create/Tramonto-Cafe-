@@ -1,5 +1,5 @@
 :root {
-  --primary: #b6895b;
+  --primary: #dc6c10;
   --bg: #010101;
 }
 
@@ -90,7 +90,7 @@ body {
   min-height: 100vh;
   display: flex;
   align-items: center;
-  background-image: url("../img/kopi1.jpg");
+  background-image: url("../img/oliver-guhr-cXBV-uUz5Rg-unsplash.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -243,6 +243,10 @@ body {
   background-color: #222;
 }
 
+.contact p {
+  color: yellow;
+}
+
 .contact .row .map {
   flex: 1 1 45rem;
   width: 100%;
@@ -277,7 +281,7 @@ body {
   display: inline-block;
   padding: 1rem 3rem;
   font-size: 1.7rem;
-  color: #fff;
+  color: #ffffff;
   background-color: var(--primary);
   cursor: pointer;
 }
@@ -295,7 +299,7 @@ footer .sosial {
 }
 
 footer .sosial a {
-  color: #fff;
+  color: #ffffff;
   margin: 1rem;
 }
 
@@ -309,7 +313,7 @@ footer .links {
 }
 
 footer .links a {
-  color: #fff;
+  color: #ffffff;
   padding: 0.7rem 1rem;
 }
 
